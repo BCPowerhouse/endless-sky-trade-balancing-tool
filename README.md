@@ -5,7 +5,7 @@ Intended Features:
 
 *The ability to set the trade prices at specific systems while using sets of rules to generate the rest of the prices automatically.
 
-*A rule that will prevent the difference in price between two systems from being above some threshold.
+*A rule that will prevent the difference in price between two systems from being above a threshold that may be set.
 
 *The ability to set a probability function for how much the difference between two systems will be.  (For example, will a price close to the threshold be just as likely as a price far from it.)
 
